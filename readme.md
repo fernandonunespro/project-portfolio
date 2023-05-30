@@ -36,7 +36,7 @@ This is a project for developing a portfolio.
 
 ## 🔖 Layout
 
-You can view the project layout by [DESSE LINK](https://www.figma.com/file/pCL4y5nFKBWxlG9d6qRR1l/DevLinks-%E2%80%A2-Projeto-Discover-(Community)?type=design&node-id=1439%3A736&t=Dtk5NpLPgV06PmTp-1).
+You can view the project layout by [THIS LINK](https://www.figma.com/file/pCL4y5nFKBWxlG9d6qRR1l/DevLinks-%E2%80%A2-Projeto-Discover-(Community)?type=design&node-id=1439%3A736&t=Dtk5NpLPgV06PmTp-1).
 
 ## :memo: License
 
