@@ -18,7 +18,7 @@ This is a project for developing a portfolio.
 <br>
 
 <p align="center">
-  <img alt="Developer Links" src=".github/preview.jpg" width="80%">
+  <img alt="Developer Links" src=".github/preview.jpg" width="100%">
 </p>
 
 ## 🚀 Tecnology
@@ -36,7 +36,7 @@ This is a project for developing a portfolio.
 
 ## 🔖 Layout
 
-Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/file/pCL4y5nFKBWxlG9d6qRR1l/DevLinks-%E2%80%A2-Projeto-Discover-(Community)?type=design&node-id=1439%3A736&t=Dtk5NpLPgV06PmTp-1). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
+You can view the project layout by [DESSE LINK](https://www.figma.com/file/pCL4y5nFKBWxlG9d6qRR1l/DevLinks-%E2%80%A2-Projeto-Discover-(Community)?type=design&node-id=1439%3A736&t=Dtk5NpLPgV06PmTp-1).
 
 ## :memo: License
 
